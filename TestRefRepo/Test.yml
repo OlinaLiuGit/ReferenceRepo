@@ -7,7 +7,6 @@ items:
   - Test.Person
   langs:
   - csharp
-  - vb
   name: Test
   nameWithType: Test
   fullName: Test

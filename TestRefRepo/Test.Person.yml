@@ -10,7 +10,6 @@ items:
   - Test.Person.ToString
   langs:
   - csharp
-  - vb
   name: Person
   nameWithType: Person
   fullName: Test.Person
@@ -48,7 +47,6 @@ items:
   parent: Test.Person
   langs:
   - csharp
-  - vb
   name: Person(String, String)
   nameWithType: Person.Person(String, String)
   fullName: Test.Person.Person(System.String, System.String)
@@ -81,7 +79,6 @@ items:
   parent: Test.Person
   langs:
   - csharp
-  - vb
   name: ToString()
   nameWithType: Person.ToString()
   fullName: Test.Person.ToString()
@@ -114,7 +111,6 @@ items:
   parent: Test.Person
   langs:
   - csharp
-  - vb
   name: DisplayName()
   nameWithType: Person.DisplayName()
   fullName: Test.Person.DisplayName()
